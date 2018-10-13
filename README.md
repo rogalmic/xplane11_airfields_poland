@@ -1,1 +1,3 @@
-# xplane11_airfields_poland
+# Airfields Poland
+
+Project contains some western Poland's airfields I created when having fun with Xplane - mostly small and very small unpaved runways...
